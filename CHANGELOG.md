@@ -1,4 +1,10 @@
-## [0.10.4](https://github.com/Yesware/jquery-handsontable/tree/v0.10.3y) (Feb 25, 2014)
+## [0.10.5](https://github.com/Yesware/jquery-handsontable/tree/v0.10.5) (Feb 25, 2014)
+
+Changes since 0.10.4:
+
+- Added jquery.handsontable.scss file
+
+## [0.10.4](https://github.com/Yesware/jquery-handsontable/tree/v0.10.4) (Feb 25, 2014)
 
 Changes since 0.10.3:
 
